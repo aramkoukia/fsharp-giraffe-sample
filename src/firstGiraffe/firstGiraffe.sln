@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "firstGiraffe", "firstGiraffe.fsproj", "{980E2995-D60A-4032-A6D6-6974E1E4EEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980E2995-D60A-4032-A6D6-6974E1E4EEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980E2995-D60A-4032-A6D6-6974E1E4EEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980E2995-D60A-4032-A6D6-6974E1E4EEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980E2995-D60A-4032-A6D6-6974E1E4EEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C1F4994-2E07-4836-8750-961CE311C8EB}
+	EndGlobalSection
+EndGlobal

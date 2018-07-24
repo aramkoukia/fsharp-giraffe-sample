@@ -3,3 +3,6 @@
 ################################################################################
 
 /src/firstGiraffe/bin
+/src/firstGiraffe/obj
+/src/firstGiraffe/.vs
+/src/firstGiraffe/Properties/PublishProfiles
